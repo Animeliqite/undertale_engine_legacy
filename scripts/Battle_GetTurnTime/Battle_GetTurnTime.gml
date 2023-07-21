@@ -1,1 +1,0 @@
-return battle._turn_time;

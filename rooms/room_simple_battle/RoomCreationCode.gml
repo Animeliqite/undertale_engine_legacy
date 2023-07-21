@@ -1,1 +1,0 @@
-Encounter_Start(1);

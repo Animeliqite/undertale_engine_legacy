@@ -1,8 +1,0 @@
-enum PLOT{
-	START,
-	AREA_1,
-	AREA_2,
-	AREA_3,
-	AREA_4,
-	AREA_5
-};

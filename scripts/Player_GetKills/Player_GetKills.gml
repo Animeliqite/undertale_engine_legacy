@@ -1,1 +1,0 @@
-return global.kills[Player_GetPlot()];

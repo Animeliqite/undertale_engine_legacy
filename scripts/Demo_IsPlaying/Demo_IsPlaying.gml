@@ -1,1 +1,0 @@
-return instance_exists(demo_player);

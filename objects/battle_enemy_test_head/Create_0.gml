@@ -1,1 +1,0 @@
-path_start(pth_testmonster,0.5,path_action_restart,false);

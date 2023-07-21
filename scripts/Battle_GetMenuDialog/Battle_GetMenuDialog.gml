@@ -1,1 +1,0 @@
-return "{clear}"+battle._menu_dialog;
