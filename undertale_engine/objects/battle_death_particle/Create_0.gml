@@ -7,4 +7,6 @@ _surface=-1;
 _inst=noone;
 _line=0;
 
-alarm[0]=1;
+_vaporize_begin=false;
+
+alarm[0]=30;

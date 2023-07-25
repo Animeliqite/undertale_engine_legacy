@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"61ecc0a4-2ff4-412d-bd6a-007a84a762e7",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"279485e4-471e-4dde-ae88-2ea38ec4be0f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fb2bb5f6-7752-45b3-b8f8-078b56de3541",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b8a2703d-16be-4955-96da-d531e2abcaf6",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -55,11 +55,11 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"61ecc0a4-2ff4-412d-bd6a-007a84a762e7","path":"sprites/spr_battle_menu_fight_aim/spr_battle_menu_fight_aim.yy",},},},"Disabled":false,"id":"cfea26cb-fbc3-4818-83f4-61d129378f0c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"279485e4-471e-4dde-ae88-2ea38ec4be0f","path":"sprites/spr_battle_menu_fight_aim/spr_battle_menu_fight_aim.yy",},},},"Disabled":false,"id":"02530c01-7901-4ede-833f-d5246e1984fe","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fb2bb5f6-7752-45b3-b8f8-078b56de3541","path":"sprites/spr_battle_menu_fight_aim/spr_battle_menu_fight_aim.yy",},},},"Disabled":false,"id":"ef90a606-027d-49cc-9214-ccfd6964ac48","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b8a2703d-16be-4955-96da-d531e2abcaf6","path":"sprites/spr_battle_menu_fight_aim/spr_battle_menu_fight_aim.yy",},},},"Disabled":false,"id":"d2cbd5d4-47a9-4783-be88-02bd1c0ab4e0","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
-    "visibleRange": {"x":0.0,"y":0.0,},
+    "visibleRange": null,
     "volume": 1.0,
     "xorigin": 7,
     "yorigin": 64,

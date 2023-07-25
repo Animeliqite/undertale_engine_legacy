@@ -1,4 +1,7 @@
 if(sprite_exists(sprite)){
+	audio_play_sound(snd_vaporize,0,false);
+	_vaporize_begin=true;
+	
 	_ps=part_system_create();
 	_p=part_type_create();
 	part_system_depth(_ps,DEPTH_BATTLE.ENEMY);

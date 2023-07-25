@@ -2,6 +2,8 @@
 if(_state==BATTLE_STATE.MENU){
 	//按钮
 	if(_menu==BATTLE_MENU.BUTTON){
+		event_user(0);
+		
 		//左/右
 		if(Input_IsPressed(INPUT.LEFT)){
 			var button=_menu_choice_button;

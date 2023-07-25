@@ -12,12 +12,6 @@ function Battle_SetMenu() {
 	Battle_SetDialog("",false,true);
 	
 	////////////////////////////////////////
-	//按钮
-	if(MENU==BATTLE_MENU.BUTTON){
-		Battle_SetDialog(Battle_GetMenuDialog());
-	}
-	
-	////////////////////////////////////////
 	//战斗/行动目标
 	if(MENU==BATTLE_MENU.FIGHT_TARGET || MENU==BATTLE_MENU.ACT_TARGET){
 		//越界归零
