@@ -6,4 +6,4 @@ repeat(6){
 
 audio_play_sound(snd_break_1,0,false);
 
-alarm[2]=100;
+alarm[2]=80;

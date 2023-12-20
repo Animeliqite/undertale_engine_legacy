@@ -44,6 +44,7 @@ function Macro_Flag() {
 
 #region dynamic
 	enum FLAG_DYNAMIC{
+		OLD_PERSISTENT_ROOM
 	};
 #endregion
 
@@ -58,7 +59,7 @@ function Macro_Flag() {
 		TRIGGER_WARP_LANDMARK,
 		TRIGGER_WARP_DIR,
 		TEXT_TYPER_CHOICE,
-		FRAME_SKIP
+		FRAME_SKIP,
 	};
 #endregion
 
